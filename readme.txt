@@ -1,4 +1,4 @@
 this is only for learning git.
 try modified.
 add new branch test1
-add something in master branch
+add something has merge
